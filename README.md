@@ -8,10 +8,10 @@
 
 
 Closures
-  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
+  1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
 
 Bit operators
-  https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827 - Bit Hacking with Go
+  1.  https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827 - Bit Hacking with Go
 
 Sorting
-  https://yourbasic.org/golang/how-to-sort-in-go/
+  1.  https://yourbasic.org/golang/how-to-sort-in-go/
