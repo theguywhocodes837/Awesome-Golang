@@ -1,10 +1,10 @@
 # Awesome-Golang
 
 
-https://golangbot.com
-https://gophercises.com/
-https://yourbasic.org/golang/
-https://medium.com/rungo
+1.  https://golangbot.com
+2.  https://gophercises.com/
+3.  https://yourbasic.org/golang/
+4.  https://medium.com/rungo
 
 
 Closures
