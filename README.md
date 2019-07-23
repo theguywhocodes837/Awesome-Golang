@@ -7,13 +7,11 @@ https://yourbasic.org/golang/
 https://medium.com/rungo
 
 
-# Topic Wise
-
-# Closures
+Closures
   https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
 
-# Bit operators
+Bit operators
   https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827 - Bit Hacking with Go
 
-# Sorting
+Sorting
   https://yourbasic.org/golang/how-to-sort-in-go/
