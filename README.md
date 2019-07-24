@@ -5,6 +5,7 @@
 2.  https://gophercises.com/
 3.  https://yourbasic.org/golang/
 4.  https://medium.com/rungo
+5.  https://forum.golangbridge.org/
 
 
 Closures
