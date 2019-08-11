@@ -17,3 +17,7 @@ Bit operators
 
 Sorting
   1.  https://yourbasic.org/golang/how-to-sort-in-go/
+  
+  
+ Bufio package
+  1. https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762
