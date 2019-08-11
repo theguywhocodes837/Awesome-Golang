@@ -21,3 +21,7 @@ Sorting
   
  Bufio package
   1. https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762
+  
+ 
+ Golang Specification
+  1. https://medium.com/golangspec
