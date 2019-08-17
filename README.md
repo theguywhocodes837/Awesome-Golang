@@ -9,7 +9,7 @@
 6.  https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
 8.  https://github.com/quii/learn-go-with-tests
 9.  https://tour.golang.org
-
+10. https://www.cosmiclearn.com/go
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
