@@ -11,6 +11,7 @@
 9.  https://tour.golang.org
 10. https://www.cosmiclearn.com/go
 11. https://gowebexamples.com/
+12. http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
