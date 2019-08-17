@@ -10,6 +10,7 @@
 8.  https://github.com/quii/learn-go-with-tests
 9.  https://tour.golang.org
 10. https://www.cosmiclearn.com/go
+11. https://gowebexamples.com/
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
