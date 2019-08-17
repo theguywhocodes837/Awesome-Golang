@@ -7,6 +7,7 @@
 4.  https://medium.com/rungo
 5.  https://forum.golangbridge.org/
 6.  https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
+8.  https://github.com/quii/learn-go-with-tests
 
 
 Closures
