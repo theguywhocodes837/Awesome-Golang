@@ -34,3 +34,8 @@ Go Schedulers
   1.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
   2.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
   3.  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
+Go garbage collection
+  1.  https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+  2.  https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
+  3.  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
