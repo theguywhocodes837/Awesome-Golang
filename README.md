@@ -29,3 +29,8 @@ Sorting
  
  Golang Specification
   1. https://medium.com/golangspec
+ 
+ Go Schedulers
+  1.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+  2.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+  3.  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
