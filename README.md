@@ -39,3 +39,6 @@ Go garbage collection
   1.  https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
   2.  https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
   3.  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
+ 
+Go Errors
+  1.  https://blog.golang.org/errors-are-values
