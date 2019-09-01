@@ -52,3 +52,4 @@ Go Concurrency
   5.  https://rakyll.org/scheduler/
   6.  https://www.youtube.com/watch?v=Yx6FBsGNOp4
   7.  https://www.youtube.com/watch?v=KBZlN0izeiY
+  8.  https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
