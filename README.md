@@ -34,6 +34,7 @@ Go Schedulers
   1.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
   2.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
   3.  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+  4.  https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
 
 Go garbage collection
   1.  https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
@@ -42,3 +43,12 @@ Go garbage collection
  
 Go Errors
   1.  https://blog.golang.org/errors-are-values
+
+Go Concurrency
+  1.  https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca
+  2.  https://docs.microsoft.com/en-gb/windows/win32/procthread/thread-local-storage
+  3.  https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads
+  4.  https://stackoverflow.com/questions/37469995/goroutines-are-cooperatively-scheduled-does-that-mean-that-goroutines-that-don
+  5.  https://rakyll.org/scheduler/
+  6.  https://www.youtube.com/watch?v=Yx6FBsGNOp4
+  7.  https://www.youtube.com/watch?v=KBZlN0izeiY
