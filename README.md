@@ -13,6 +13,9 @@
 11. https://gowebexamples.com/
 12. http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 13. https://www.youtube.com/watch?v=OSPNUKoN81o&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX
+14. https://github.com/emluque/golang-internals-resources
+15. https://stackoverflow.com/questions/49771806/how-to-learn-internals-of-of-the-go-programming-lanauge-for-noob
+
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
