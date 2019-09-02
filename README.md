@@ -12,6 +12,7 @@
 10. https://www.cosmiclearn.com/go
 11. https://gowebexamples.com/
 12. http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
+13. https://www.youtube.com/watch?v=OSPNUKoN81o&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
