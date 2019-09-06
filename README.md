@@ -40,13 +40,13 @@ Scheduling
   3. <a href="https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html">Scheduling in go part 3</a>
 
 Garbage Collection (GC)
-  1.  https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
-  2.  https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
-  3.  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
-  4.  https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
+  1.  <a href="https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html">Garbage collection in go part 1</a>
+  2.  <a href="https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html">Garbage collection in go part 2</a>
+  3.  <a href="https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html">Garbage collection in go part 3</a>
+  4.  <a href="https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7">Go’s march to low-latency GC</a>
  
 Go Errors
-  1.  https://blog.golang.org/errors-are-values
+  1.  <a href="https://blog.golang.org/errors-are-values">Errors are values</a>
 
 Go Concurrency
   1.  https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca
