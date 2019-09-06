@@ -34,16 +34,16 @@ Bufio package
 Golang Specification
   1. https://medium.com/golangspec
  
-Go Schedulers
-  1.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
-  2.  https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
-  3.  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
-  4.  https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
+Scheduling
+  1. <a href="https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html">Scheduling in go part 1</a>
+  2. <a href="https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html">Scheduling in go part 2</a>
+  3. <a href="https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html">Scheduling in go part 3</a>
 
-Go garbage collection
+Garbage Collection (GC)
   1.  https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
   2.  https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
   3.  https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
+  4.  https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
  
 Go Errors
   1.  https://blog.golang.org/errors-are-values
