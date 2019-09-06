@@ -57,4 +57,4 @@ Go Concurrency
   6.  https://www.youtube.com/watch?v=Yx6FBsGNOp4
   7.  https://www.youtube.com/watch?v=KBZlN0izeiY
   8.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
-  9.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">Free lunch is Over</a>
+  9.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
