@@ -57,4 +57,4 @@ Go Concurrency
   6.  https://www.youtube.com/watch?v=Yx6FBsGNOp4
   7.  https://www.youtube.com/watch?v=KBZlN0izeiY
   8.  https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
-  9.  The Free Lunch Is Over - http://www.gotw.ca/publications/concurrency-ddj.htm
+  9.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">Free lunch is Over</a>
