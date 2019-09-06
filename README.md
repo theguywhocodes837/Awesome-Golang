@@ -52,10 +52,10 @@ Go Errors
   4.  <a href="https://golangbot.com/panic-and-recover/">Panic and Recovery in Golang - golangbot.com</a>
 
 Go Concurrency
-  1.  https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca
-  2.  https://docs.microsoft.com/en-gb/windows/win32/procthread/thread-local-storage
-  3.  https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads
-  4.  https://stackoverflow.com/questions/37469995/goroutines-are-cooperatively-scheduled-does-that-mean-that-goroutines-that-don
+  1.  <a href="https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca">Achieving concurrency in Go</a>
+  2.  <a href="https://docs.microsoft.com/en-gb/windows/win32/procthread/thread-local-storage">Thread Local Storage</a>
+  3.  <a href="https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads">Preemptive threads Vs Non Preemptive threads</a>
+  4.  <a href="https://stackoverflow.com/questions/37469995/goroutines-are-cooperatively-scheduled-does-that-mean-that-goroutines-that-don">cooperative scheduling in golang</a>
   5.  Go's work-stealing scheduler - <a href="https://rakyll.org/scheduler/">Text</a>, <a href="https://www.youtube.com/watch?v=Yx6FBsGNOp4">Video</a>
   6.  <a href="https://www.youtube.com/watch?v=KBZlN0izeiY">GopherCon 2017: Kavya Joshi - Understanding Channels</a>
   7.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
