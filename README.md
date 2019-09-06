@@ -56,8 +56,8 @@ Go Concurrency
   2.  https://docs.microsoft.com/en-gb/windows/win32/procthread/thread-local-storage
   3.  https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads
   4.  https://stackoverflow.com/questions/37469995/goroutines-are-cooperatively-scheduled-does-that-mean-that-goroutines-that-don
-  5.  https://rakyll.org/scheduler/
-  6.  https://www.youtube.com/watch?v=Yx6FBsGNOp4
-  7.  https://www.youtube.com/watch?v=KBZlN0izeiY
+  5.  <a href="https://rakyll.org/scheduler/">Go's work-stealing scheduler - Text</a>
+  6.  <a href="https://www.youtube.com/watch?v=Yx6FBsGNOp4">Go's work stealing scheduler - Video</a>
+  7.  <a href="https://www.youtube.com/watch?v=KBZlN0izeiY">GopherCon 2017: Kavya Joshi - Understanding Channels</a>
   8.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
   9.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
