@@ -46,7 +46,10 @@ Garbage Collection (GC)
   4.  <a href="https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7">Go’s march to low-latency GC</a>
  
 Go Errors
-  1.  <a href="https://blog.golang.org/errors-are-values">Errors are values</a>
+  1.  <a href="https://golangbot.com/error-handling/">Error handling in Golang - golangbot.com</a>
+  2.  <a href="https://golangbot.com/custom-errors/">Custom errors in Golang - golangbot.com</a>
+  3.  <a href="https://blog.golang.org/errors-are-values">Errors are values</a>
+  4.  <a href="https://golangbot.com/panic-and-recover/">Panic and Recovery in Golang - golangbot.com</a>
 
 Go Concurrency
   1.  https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca
