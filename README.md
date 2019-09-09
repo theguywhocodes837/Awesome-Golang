@@ -60,3 +60,6 @@ Go Concurrency
   6.  <a href="https://www.youtube.com/watch?v=KBZlN0izeiY">GopherCon 2017: Kavya Joshi - Understanding Channels</a>
   7.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
   8.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
+ 
+ PUB SUB
+  1. <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997"> Writing event bus in golang</a>
