@@ -4,8 +4,8 @@
 1.  <a href="https://golangbot.com/learn-golang-series/">Golangbot - Golang tutorial series</a>
 2.  <a href="https://gophercises.com/">Gophercises - FREE coding exercises for budding gophers</a>
 3.  <a href="https://yourbasic.org/golang/">Yourbasicgo - Go go-to guide</a>
-4.  https://medium.com/rungo
-5.  https://forum.golangbridge.org/
+4.  <a href="https://medium.com/rungo">Run Go</a>
+5.  <a href="https://forum.golangbridge.org/"> Golang Bridge</a>
 6.  https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
 8.  https://github.com/quii/learn-go-with-tests
 9.  https://tour.golang.org
@@ -15,6 +15,7 @@
 13. https://www.youtube.com/watch?v=OSPNUKoN81o&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX
 14. https://github.com/emluque/golang-internals-resources
 15. https://stackoverflow.com/questions/49771806/how-to-learn-internals-of-of-the-go-programming-lanauge-for-noob
+16. <a href="https://dave.cheney.net/"> Dave Cheney Blog</a>
 
 
 Closures
