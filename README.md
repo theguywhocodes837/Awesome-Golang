@@ -63,3 +63,6 @@ Go Concurrency
  
  PUB SUB
   1. <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997"> Writing event bus in golang</a>
+  
+ Key Value data Store
+  1.  <a href="https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8">how i built a key value store in go</a>
