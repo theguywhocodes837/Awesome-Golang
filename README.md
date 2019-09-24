@@ -69,4 +69,4 @@ Go Concurrency
   1.  <a href="https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8">how i built a key value store in go</a>
  
  Library
-  1.  <a href='https://github.com/c-bata/go-prompt">Go Prompt</a>
+  1.  <a href="https://github.com/c-bata/go-prompt">Go Prompt</a>
