@@ -6,12 +6,12 @@
 3.  <a href="https://yourbasic.org/golang/">Yourbasicgo - Go go-to guide</a>
 4.  <a href="https://medium.com/rungo">Run Go</a>
 5.  <a href="https://forum.golangbridge.org/"> Golang Bridge</a>
-6.  https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
-8.  https://github.com/quii/learn-go-with-tests
-9.  https://tour.golang.org
-10. https://www.cosmiclearn.com/go
-11. https://gowebexamples.com/
-12. http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
+6.  <a href="https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S">Learn To Code - Golang Training</a>
+8.  <a href="https://github.com/quii/learn-go-with-tests">Learn go with tests</a>
+9.  <a href="https://tour.golang.org">A tour of golang</a>
+10. <a href="https://www.cosmiclearn.com/go">Cosmic Learn</a>
+11. <a href="https://gowebexamples.com/'>Go Web Examples</a>
+12. <a href="http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html">Gotchas and common mistakes in go golang</a>
 13. https://www.youtube.com/watch?v=OSPNUKoN81o&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX
 14. https://github.com/emluque/golang-internals-resources
 15. https://stackoverflow.com/questions/49771806/how-to-learn-internals-of-of-the-go-programming-lanauge-for-noob
