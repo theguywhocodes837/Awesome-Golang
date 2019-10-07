@@ -10,7 +10,7 @@
 8.  <a href="https://github.com/quii/learn-go-with-tests">Learn go with tests</a>
 9.  <a href="https://tour.golang.org">A tour of golang</a>
 10. <a href="https://www.cosmiclearn.com/go">Cosmic Learn</a>
-11. <a href="https://gowebexamples.com/'>Go Web Examples</a>
+11. <a href="https://gowebexamples.com/">Go Web Examples</a>
 12. <a href="http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html">Gotchas and common mistakes in go golang</a>
 13. https://www.youtube.com/watch?v=OSPNUKoN81o&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX
 14. https://github.com/emluque/golang-internals-resources
