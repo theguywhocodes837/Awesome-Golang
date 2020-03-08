@@ -16,6 +16,7 @@
 14. https://github.com/emluque/golang-internals-resources
 15. https://stackoverflow.com/questions/49771806/how-to-learn-internals-of-of-the-go-programming-lanauge-for-noob
 16. <a href="https://dave.cheney.net/"> Dave Cheney Blog</a>
+17. <a href="https://www.golangprograms.com/golang/sort-reverse-search-functions/">Sorting in Golang</a>
 
 
 Closures
