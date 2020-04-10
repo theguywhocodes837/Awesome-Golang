@@ -71,3 +71,6 @@ Go Concurrency
  
  Library
   1.  <a href="https://github.com/c-bata/go-prompt">Go Prompt</a>
+ 
+ WEB
+  1.  <a href="https://www.integralist.co.uk/posts/understanding-golangs-func-type/">Understanding golangs func type</a>
