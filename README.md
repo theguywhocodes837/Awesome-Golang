@@ -78,3 +78,4 @@ Go Concurrency
 
  STYLE GUIDE
   1.  <a href="https://github.com/golang/go/wiki/CodeReviewComments#gofmt"> Code Review Comment</a>
+  2.  <a href="https://golang.org/doc/effective_go.html">Effective Go</a>
