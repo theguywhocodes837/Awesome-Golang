@@ -74,3 +74,4 @@ Go Concurrency
  
  WEB
   1.  <a href="https://www.integralist.co.uk/posts/understanding-golangs-func-type/">Understanding golangs func type</a>
+  2.  <a href="https://medium.com/@edwardpie/processing-form-request-data-in-golang-2dff4c2441be"> Processing form request data in golang</a>
