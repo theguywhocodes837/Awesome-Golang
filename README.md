@@ -2,7 +2,6 @@
 
 
 1.  <a href="https://golangbot.com/learn-golang-series/">Golangbot - Golang tutorial series</a>
-2.  <a href="https://gophercises.com/">Gophercises - FREE coding exercises for budding gophers</a>
 3.  <a href="https://yourbasic.org/golang/">Yourbasicgo - Go go-to guide</a>
 4.  <a href="https://medium.com/rungo">Run Go</a>
 5.  <a href="https://forum.golangbridge.org/"> Golang Bridge</a>
@@ -63,11 +62,12 @@ Go Concurrency
   7.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
   8.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
  
- PUB SUB
-  1. <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997"> Writing event bus in golang</a>
   
- Key Value data Store
+ GOLANG PROJECTS
   1.  <a href="https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8">how i built a key value store in go</a>
+  2.  <a href="https://gophercises.com/">Gophercises - FREE coding exercises for budding gophers</a>
+  3.  <a href="https://ieftimov.com/post/when-why-least-frequently-used-cache-implementation-golang/">When why least frequently used cache implementation golang</a>
+  4.  <a href="https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997"> Writing event bus in golang</a>
  
  Library
   1.  <a href="https://github.com/c-bata/go-prompt">Go Prompt</a>
