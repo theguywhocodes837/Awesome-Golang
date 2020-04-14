@@ -76,6 +76,7 @@ Go Concurrency
   1.  <a href="https://www.integralist.co.uk/posts/understanding-golangs-func-type/">Understanding golangs func type</a>
   2.  <a href="https://medium.com/@edwardpie/processing-form-request-data-in-golang-2dff4c2441be"> Processing form request data in golang</a>
   3.  <a href="https://www.alexedwards.net/blog/a-recap-of-request-handling">A recap of request handling</a>
+  4.  <a href="https://www.alexedwards.net/blog/serving-static-sites-with-go">serving static sites with go</a>
 
  STYLE GUIDE
   1.  <a href="https://github.com/golang/go/wiki/CodeReviewComments#gofmt"> Code Review Comment</a>
