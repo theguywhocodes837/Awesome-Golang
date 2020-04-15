@@ -64,12 +64,13 @@ Go Errors
 Go Concurrency
   1.  <a href="https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca">Achieving concurrency in Go</a>
   2.  <a href="https://docs.microsoft.com/en-gb/windows/win32/procthread/thread-local-storage">Thread Local Storage</a>
-  3.  <a href="https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads">Preemptive threads Vs Non Preemptive threads</a>
+  3.  <a href="https://stackoverflow.com/questions/4147221/preemptive-threads-vs-non-preemptive-threads">Preemptive threads Vs Non Preemptive threads</a>Rob Pike - 'Concurrency Is Not Parallelism'</a>
   4.  <a href="https://stackoverflow.com/questions/37469995/goroutines-are-cooperatively-scheduled-does-that-mean-that-goroutines-that-don">Cooperative scheduling in golang</a>
   5.  Go's work-stealing scheduler - <a href="https://rakyll.org/scheduler/">Text</a>, <a href="https://www.youtube.com/watch?v=Yx6FBsGNOp4">Video</a>
   6.  <a href="https://www.youtube.com/watch?v=KBZlN0izeiY">GopherCon 2017: Kavya Joshi - Understanding Channels</a>
   7.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
   8.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
+  9.  <a href="https://www.youtube.com/watch?v=cN_DpYBzKso&list=PLdZWBCXtPDGEXtWbEYG7Ima1ex17oXJvB&index=6&t=0s">Rob Pike - 'Concurrency Is Not Parallelism'</a>
  
   
  GOLANG PROJECTS
