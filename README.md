@@ -18,6 +18,14 @@
 16. <a href="https://dave.cheney.net/"> Dave Cheney Blog</a>
 17. <a href="https://www.golangprograms.com/golang/sort-reverse-search-functions/">Sorting in Golang</a>
 
+RUN GO INTRODUCTORY TUTORIALS
+  1.  <a href="https://medium.com/rungo/introduction-to-go-programming-language-golang-89d16ca72bbf">Introduction to Go Programming Language</a>
+  2.  <a href="https://medium.com/rungo/working-in-go-workspace-3b0576e0534a">Getting started with Go</a>
+  3.  <a href="https://medium.com/rungo/how-to-write-a-simple-go-program-13fd104f3018">How to write a simple Go Program</a>
+  4.  <a href="https://medium.com/rungo/variables-and-constants-in-go-programming-c715443fa788">Data Types and Variables in Go</a>
+  5.  <a href="https://medium.com/@thatisuday/anatomy-of-conditional-statements-and-loops-in-go-aa84352cc34d">Anatomy of Conditional Statements and Loops in Go</a>
+  6.  <a href="https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc">Everything you need to know about Packages in Go</a>
+
 
 Closures
   1.  https://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
