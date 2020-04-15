@@ -2,6 +2,7 @@
 
 
 1.  <a href="https://golangbot.com/learn-golang-series/">Golangbot - Golang tutorial series</a>
+2.  <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU">Learn Go Programming - Golang Tutorial for Beginners</a>
 3.  <a href="https://yourbasic.org/golang/">Yourbasicgo - Go go-to guide</a>
 4.  <a href="https://medium.com/rungo">Run Go</a>
 5.  <a href="https://forum.golangbridge.org/"> Golang Bridge</a>
