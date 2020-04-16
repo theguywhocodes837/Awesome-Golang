@@ -88,7 +88,9 @@ Go Concurrency
   3.  <a href="https://www.alexedwards.net/blog/a-recap-of-request-handling">A recap of request handling</a>
   4.  <a href="https://www.alexedwards.net/blog/serving-static-sites-with-go">serving static sites with go</a>
   5.  <a href="https://www.alexedwards.net/blog/golang-response-snippets">Golang response snippets</a>
-  6   <a href="https://www.alexedwards.net/blog/making-and-using-middleware">Making and Using Middleware</a>
+  6.  <a href="https://www.alexedwards.net/blog/making-and-using-middleware">Making and Using Middleware</a>
+  7.  <a href="https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook">WebApp with golang anti textbook</a>
+  8.  <a href="https://astaxie.gitbooks.io/build-web-application-with-golang/en/">Build Web Application with Golang</a>
 
  STYLE GUIDE
   1.  <a href="https://github.com/golang/go/wiki/CodeReviewComments#gofmt"> Code Review Comment</a>
