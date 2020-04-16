@@ -103,3 +103,4 @@ Go Concurrency
  1.   <a href="https://tumregels.github.io/Network-Programming-with-Go/">Network Programming With Golang</a>
  2.   <a href="https://appliedgo.net/networking/">TCP/IP Networking</a>
  3.   <a href="https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/">Understanding bytes in Go by building a TCP protocol</a>
+ 4.   <a href="https://www.youtube.com/watch?v=pGR3r0UhoS8">GopherCon 2019: Gabbi Fisher - Socket to Me: Where do Sockets Live in Go?</a>
