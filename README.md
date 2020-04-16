@@ -91,6 +91,9 @@ Go Concurrency
   6.  <a href="https://www.alexedwards.net/blog/making-and-using-middleware">Making and Using Middleware</a>
   7.  <a href="https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook">WebApp with golang anti textbook</a>
   8.  <a href="https://astaxie.gitbooks.io/build-web-application-with-golang/en/">Build Web Application with Golang</a>
+  
+  WEB SOCKET
+  1.  <a href="https://www.youtube.com/watch?v=LI1YTFMi8W4">Going Infinite, handling 1 millions websockets connections in Go / Eran Yanay</a>
 
  STYLE GUIDE
   1.  <a href="https://github.com/golang/go/wiki/CodeReviewComments#gofmt"> Code Review Comment</a>
