@@ -71,6 +71,7 @@ Go Concurrency
   7.  <a href="https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb">Anatomy of channels</a>
   8.  <a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>
   9.  <a href="https://www.youtube.com/watch?v=cN_DpYBzKso&list=PLdZWBCXtPDGEXtWbEYG7Ima1ex17oXJvB&index=6&t=0s">Rob Pike - 'Concurrency Is Not Parallelism'</a>
+  10 <a href="https://www.youtube.com/watch?v=CUG1vfnO3zI">Fun with Channels in Golang</a>
  
   
  GOLANG PROJECTS
