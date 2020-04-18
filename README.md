@@ -39,6 +39,9 @@ Sorting
   
 Bufio package
   1. https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762
+
+Strings
+  1. <a href="https://blog.golang.org/strings">Strings, bytes, runes and characters in Go</a>
   
  
 Golang Specification
