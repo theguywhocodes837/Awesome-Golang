@@ -37,8 +37,9 @@ Sorting
   1.  https://yourbasic.org/golang/how-to-sort-in-go/
   
   
-Bufio package
-  1. https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762
+Reader and Writers
+  1. <a href="https://www.youtube.com/watch?v=fzXuXUIewBk&t=1s">IO, buffers, readers, writers</a>
+  2  <a href="https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762">Introduction to bufio package in Golang</a>
 
 Strings
   1. <a href="https://blog.golang.org/strings">Strings, bytes, runes and characters in Go</a>
