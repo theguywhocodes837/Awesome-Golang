@@ -47,6 +47,7 @@ Strings
  
 Golang Specification
   1. https://medium.com/golangspec
+  2. <a href="https://www.youtube.com/watch?v=ynoY2xz-F8s">Understanding nill</a>
  
 Scheduling
   1. <a href="https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html">Scheduling in go part 1</a>
