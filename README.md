@@ -7,7 +7,7 @@
 4.  <a href="https://medium.com/rungo">Run Go</a>
 5.  <a href="https://forum.golangbridge.org/"> Golang Bridge</a>
 6.  <a href="https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S">Learn To Code - Golang Training</a>
-8.  <a href="https://github.com/quii/learn-go-with-tests">Learn go with tests</a>
+8.  <a href="https://quii.gitbook.io/learn-go-with-tests/">Learn GO With Tests</a>
 9.  <a href="https://tour.golang.org">A tour of golang</a>
 10. <a href="https://www.cosmiclearn.com/go">Cosmic Learn</a>
 11. <a href="https://gowebexamples.com/">Go Web Examples</a>
