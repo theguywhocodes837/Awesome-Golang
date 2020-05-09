@@ -98,7 +98,7 @@ Go Concurrency
   6.  <a href="https://www.alexedwards.net/blog/making-and-using-middleware">Making and Using Middleware</a>
   7.  <a href="https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook">WebApp with golang anti textbook</a>
   8.  <a href="https://astaxie.gitbooks.io/build-web-application-with-golang/en/">Build Web Application with Golang</a>
-  9.  <a href='https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc">How I structure production grade REST API’s in Golang</a>
+  9.  <a href="https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc">How I structure production grade REST API’s in Golang</a>
   10. <a href="https://itnext.io/how-i-pass-around-shared-resources-databases-configuration-etc-within-golang-projects-b27af4d8e8a">How I pass around shared resources within Golang projects</a>
   
   WEB SOCKET
